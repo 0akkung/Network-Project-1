@@ -1,6 +1,6 @@
 from socket import *
 
-SERVER_NAME = "servername"
+SERVER_NAME = "192.168.1.34"
 SERVER_PORT = 5555
 
 def receive_and_print_response():

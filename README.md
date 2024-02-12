@@ -31,6 +31,7 @@ This is a simple client-server two-player game project, completed as part of the
 - 100: Player joined
 - 101: Instruction
 - 200: OK, Waiting for the player's turn
+- 201: Game over
 - 303: Player's turn
 - 400: The number is out of range
 - 401: Invalid input
